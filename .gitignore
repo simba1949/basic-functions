@@ -1,2 +1,5 @@
 # Project exclude paths
 /mail-function/target/
+*/target
+*.idea
+*.iml
